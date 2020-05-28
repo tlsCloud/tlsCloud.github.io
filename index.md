@@ -1,5 +1,6 @@
-# tls-双修组（CloudGroup）
-<p>支持线上，线下考核二选一；考核要求：三选二，分数达到98%+<p>
+# tls-双修组考核标准
+<p>tls-双修组是tls战队线上线下双修出勤的战队小组，欢迎你的加入<p>
+<p>考核模式：支持线上，线下考核二选一；考核要求：三选二，分数达到98%+<p>
 <p>线上考核不使用除了<b>Const</b>与<b>Death</b>以外的模式</p><p>成绩结算界面回放左边<b>必须</b>有个“ ! ”的按钮</p>
 <p>请把线上考核成绩截图/线下考核成绩拍照图发给<b>sa</b>登记，截图或照片需附带完整的用户名</p>
 <h2>普通组考核（e判）</h2><table><tbody><tr><th class="c">Song ID</th><th class="c">Artist</th><th class="c">Title</th><th class="c">Difficulty</th><th class="c">Level</th></tr><tr><td class="c"><a href="http://m.mugzone.net/song/8456" target="_blank">s8456</a></td><td class="c">Fitz &amp; the Tantrums</td><td class="c">Handclap</td><td class="c">Hard</td><td class="c">Lv.9</td></tr><tr><td class="c"><a href="http://m.mugzone.net/song/5323" target="_blank">s5323</a></td><td class="c">Mike Perry feat. Shy Martin</td><td class="c">The Ocean</td><td class="c">Hard</td><td class="c">Lv.10</td></tr><tr><td class="c"><a href="http://m.mugzone.net/song/1319" target="_blank">s1319</a></td><td class="c">S9ryne</td><td class="c">初夏</td><td class="c">Hard</td><td class="c">Lv.10</td></tr></tbody></table><h3>
